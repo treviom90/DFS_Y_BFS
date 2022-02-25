@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1645741926 source:d:\general\6 semestre\inteligencia artificial\tarea\anchura_y_profundidad\grafo.cpp
+	"Grafo.h"
+
+1645740998 d:\general\6 semestre\inteligencia artificial\tarea\anchura_y_profundidad\grafo.h
+	<iostream>
+	<queue>
+	<list>
+	<stack>
+
+1645745322 source:d:\general\6 semestre\inteligencia artificial\tarea\anchura_y_profundidad\main.cpp
+	<iostream>
+	<windows.h>
+	"Grafo.h"
+
